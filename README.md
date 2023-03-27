@@ -21,14 +21,14 @@ _글자 기울이기_
 2. 두번째
 3. 세번째
 
-[ ] 할 일
+[] 할 일
 [x] 완료한 일
 
 [네이버](https://www.naver.com)
 
-''' java
+``` java
 System.out.println("hello")
-'''
+```
 
 ***
 ---
